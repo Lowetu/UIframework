@@ -1,0 +1,8 @@
+2017-11-19 at 16:36:36 CST [ERROR] com.UIframework.Class2.Forlog4j2.main 30 --0不能做分母
+2017-11-19 at 16:36:36 CST [WARN] com.UIframework.Class2.Forlog4j2.main 33 --警告
+2017-11-19 at 16:36:36 CST [INFO] com.UIframework.Class2.Forlog4j2.main 34 --info111
+2017-11-19 at 16:36:36 CST [DEBUG] com.UIframework.Class2.Forlog4j2.main 35 --debug
+2017-11-19 at 16:41:27 CST [ERROR] com.UIframework.Class2.Forlog4j2.main 30 --0不能做分母
+2017-11-19 at 16:41:27 CST [WARN] com.UIframework.Class2.Forlog4j2.main 33 --警告
+2017-11-19 at 16:41:27 CST [INFO] com.UIframework.Class2.Forlog4j2.main 34 --info111
+2017-11-19 at 16:41:27 CST [DEBUG] com.UIframework.Class2.Forlog4j2.main 35 --debug
